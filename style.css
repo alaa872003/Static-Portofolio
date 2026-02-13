@@ -9,6 +9,10 @@
   --text-muted: #9c9c9c;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 
 
 * {
